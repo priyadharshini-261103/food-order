@@ -1,0 +1,28 @@
+header{
+    background:rgba(105, 3, 3, 0.828);
+    padding: 0;
+    border-bottom: 1px solid;
+}
+a{
+    color: rgba(238, 176, 59, 0.995);
+}
+a:hover{
+    
+    color:rgba(250, 3, 3, 0.74);
+}
+.container {
+margin: 0 auto;
+display: flex;
+justify-content: space-between;
+}
+a.logo{
+    font-weight: bold;
+    padding: 1em;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;}
+nav ul li a{
+    display: inline-block;
+    padding: 1em;
+}
